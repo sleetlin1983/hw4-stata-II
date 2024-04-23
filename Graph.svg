@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 16.0 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#EAF2F3;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#EAF2F3"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#EAF2F3;stroke-width:5.76"/>
+	<rect x="390.80" y="100.86" width="3468.22" height="1852.84" style="fill:#FFFFFF"/>
+	<rect x="393.68" y="103.74" width="3462.46" height="1847.08" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="390.80" y1="1953.70" x2="3859.02" y2="1953.70" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="1506.33" x2="3859.02" y2="1506.33" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="1058.96" x2="3859.02" y2="1058.96" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="611.59" x2="3859.02" y2="611.59" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<rect x="1012.15" y="1418.10" width="465.18" height="535.61" style="fill:#FF7F00;fill-opacity:0.40"/>
+	<rect x="1016.47" y="1422.42" width="456.54" height="526.97" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<rect x="1477.33" y="748.46" width="465.18" height="1205.24" style="fill:#FF7F00;fill-opacity:0.40"/>
+	<rect x="1481.65" y="752.78" width="456.54" height="1196.60" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<rect x="1942.50" y="480.66" width="465.18" height="1473.04" style="fill:#FF7F00;fill-opacity:0.40"/>
+	<rect x="1946.82" y="484.98" width="456.54" height="1464.40" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<rect x="2407.68" y="1418.10" width="465.18" height="535.61" style="fill:#FF7F00;fill-opacity:0.40"/>
+	<rect x="2412.00" y="1422.42" width="456.54" height="526.97" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<rect x="2872.86" y="1685.90" width="465.18" height="267.80" style="fill:#FF7F00;fill-opacity:0.40"/>
+	<rect x="2877.18" y="1690.22" width="456.54" height="259.16" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<path d=" M1012.15 1759.90 L1019.95 1753.84 L1027.62 1747.53 L1035.42 1741.09 L1043.21 1734.66 L1051.01 1727.98 L1058.81 1721.05 L1066.60 1714.11 L1074.40 1706.94 L1082.07 1699.64 L1089.87 1692.21 L1097.66 1684.54 L1105.46 1676.86 L1113.26 1668.94 L1121.05 1660.90 L1128.85 1652.61 L1136.52 1644.19 L1144.32 1635.65 L1152.11 1626.99 L1159.91 1618.21 L1167.70 1609.17 L1175.50 1600.01 L1183.30 1590.61 L1190.97 1581.20 L1198.77 1571.55 L1206.56 1561.65 L1214.36 1551.75 L1222.15 1541.60 L1229.95 1531.33 L1237.75 1520.94 L1245.42 1510.42 L1253.22 1499.65 L1261.01 1488.88 L1268.81 1477.87 L1276.61 1466.73 L1284.40 1455.35 L1292.20 1443.96 L1299.87 1432.33 L1307.67 1420.69 L1315.46 1408.81 L1323.26 1396.81 L1331.06 1384.81 L1338.85 1372.55 L1346.65 1360.18 L1354.32 1347.68 L1362.12 1335.18 L1369.91 1322.43 L1377.71 1309.69 L1385.51 1296.82 L1393.30 1283.82 L1401.10 1270.70 L1408.77 1257.59 L1416.57 1244.22 L1424.36 1230.98 L1432.16 1217.49 L1439.95 1204.00 L1447.75 1190.51 L1455.55 1176.90 L1463.22 1163.29 L1471.02 1149.55 L1478.81 1135.81 L1486.61 1121.95 L1494.40 1108.22 L1502.20 1094.36 L1510.00 1080.50 L1517.67 1066.63 L1525.47 1052.65 L1533.26 1038.79 L1541.06 1024.93 L1548.86 1011.07 L1556.65 997.33 L1564.45 983.47 L1572.12 969.74 L1579.92 956.00 L1587.71 942.26 L1595.51 928.65 L1603.31 915.16 L1611.10 901.67 L1618.90 888.31 L1626.57 874.94 L1634.37 861.70 L1642.16 848.58 L1649.96 835.59 L1657.76 822.72 L1665.55 809.97 L1673.35 797.35 L1681.02 784.85 L1688.82 772.47 L1696.61 760.22 L1704.41 748.22 L1712.20 736.34 L1720.00 724.70 L1727.80 713.19 L1735.47 701.93 L1743.27 690.79 L1751.06 679.90 L1758.86 669.14 L1766.65 658.74 L1774.45 648.47 L1782.25 638.45 L1789.92 628.67 L1797.72 619.14 L1805.51 609.86 L1813.31 600.83 L1821.11 592.04 L1828.90 583.62 L1836.70 575.33 L1844.37 567.41 L1852.17 559.86 L1859.96 552.44 L1867.76 545.38 L1875.56 538.70 L1883.35 532.27 L1891.15 526.08 L1898.82 520.26 L1906.62 514.82 L1914.41 509.62 L1922.21 504.79 L1930.01 500.34 L1937.80 496.13 L1945.60 492.29 L1953.27 488.83 L1961.07 485.61 L1968.86 482.89 L1976.66 480.41 L1984.45 478.31 L1992.25 476.45 L2000.05 475.09 L2007.72 473.98 L2015.52 473.23 L2023.31 472.99 L2031.11 472.99 L2038.90 473.23 L2046.70 473.98 L2054.50 475.09 L2062.17 476.45 L2069.97 478.18 L2077.76 480.29 L2085.56 482.76 L2093.36 485.61 L2101.15 488.70 L2108.95 492.17 L2116.62 496.01 L2124.42 500.21 L2132.21 504.67 L2140.01 509.49 L2147.80 514.69 L2155.60 520.14 L2163.40 525.95 L2171.07 532.02 L2178.87 538.45 L2186.66 545.26 L2194.46 552.31 L2202.26 559.61 L2210.05 567.29 L2217.85 575.21 L2225.52 583.38 L2233.32 591.79 L2241.11 600.58 L2248.91 609.61 L2256.70 618.89 L2264.50 628.42 L2272.30 638.20 L2279.97 648.22 L2287.77 658.37 L2295.56 668.89 L2303.36 679.53 L2311.16 690.42 L2318.95 701.56 L2326.75 712.82 L2334.42 724.33 L2342.22 736.09 L2350.01 747.97 L2357.81 759.97 L2365.61 772.10 L2373.40 784.48 L2381.20 796.97 L2388.87 809.60 L2396.67 822.34 L2404.46 835.21 L2412.26 848.21 L2420.05 861.33 L2427.85 874.57 L2435.65 887.93 L2443.32 901.30 L2451.12 914.79 L2458.91 928.28 L2466.71 941.89 L2474.51 955.63 L2482.30 969.36 L2490.10 983.10 L2497.77 996.84 L2505.57 1010.70 L2513.36 1024.56 L2521.16 1038.42 L2528.95 1052.28 L2536.75 1066.26 L2544.55 1080.12 L2552.22 1093.98 L2560.02 1107.72 L2567.81 1121.58 L2575.61 1135.44 L2583.41 1149.18 L2591.20 1162.79 L2599.00 1176.53 L2606.67 1190.14 L2614.47 1203.63 L2622.26 1217.12 L2630.06 1230.61 L2637.86 1243.97 L2645.65 1257.22 L2653.45 1270.33 L2661.12 1283.45 L2668.92 1296.45 L2676.71 1309.32 L2684.51 1322.06 L2692.30 1334.81 L2700.10 1347.43 L2707.90 1359.81 L2715.57 1372.18 L2723.37 1384.43 L2731.16 1396.56 L2738.96 1408.44 L2746.76 1420.32 L2754.55 1432.08 L2762.35 1443.59 L2770.02 1455.10 L2777.82 1466.36 L2785.61 1477.50 L2793.41 1488.51 L2801.20 1499.40 L2809.00 1510.17 L2816.80 1520.69 L2824.47 1531.08 L2832.27 1541.35 L2840.06 1551.50 L2847.86 1561.40 L2855.66 1571.18 L2863.45 1580.83 L2871.25 1590.36 L2878.92 1599.64 L2886.72 1608.92 L2894.51 1617.96 L2902.31 1626.74 L2910.11 1635.41 L2917.90 1643.95 L2925.70 1652.36 L2933.37 1660.65 L2941.17 1668.70 L2948.96 1676.62 L2956.76 1684.41 L2964.55 1691.96 L2972.35 1699.39 L2980.15 1706.69 L2987.82 1713.87 L2995.62 1720.92 L3003.41 1727.73 L3011.21 1734.41 L3019.01 1740.97 L3026.80 1747.40 L3034.60 1753.59 L3042.27 1759.78 L3050.07 1765.72 L3057.86 1771.54 L3065.66 1777.23 L3073.45 1782.80 L3081.25 1788.24 L3089.05 1793.56 L3096.72 1798.64 L3104.52 1803.71 L3112.31 1808.54 L3120.11 1813.37 L3127.91 1818.07 L3135.70 1822.52 L3143.50 1826.98 L3151.17 1831.19 L3158.97 1835.39 L3166.76 1839.48 L3174.56 1843.44 L3182.36 1847.27 L3190.15 1850.99 L3197.95 1854.58 L3205.62 1858.04 L3213.42 1861.51 L3221.21 1864.85 L3229.01 1868.06 L3236.80 1871.16 L3244.60 1874.13 L3252.40 1877.10 L3260.07 1879.94 L3267.87 1882.67 L3275.66 1885.27 L3283.46 1887.87 L3291.26 1890.34 L3299.05 1892.82 L3306.85 1895.17 L3314.52 1897.39 L3322.32 1899.62 L3330.11 1901.73 L3337.91 1903.83" stroke-linejoin="round" style="fill:none;stroke:#2D6D66;stroke-width:8.64"/>
+	<rect x="662.19" y="1699.14" width="489.31" height="254.56" style="fill:#0080FF;fill-opacity:0.60"/>
+	<rect x="666.51" y="1703.46" width="480.67" height="245.92" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<rect x="1151.49" y="1189.89" width="489.43" height="763.81" style="fill:#0080FF;fill-opacity:0.60"/>
+	<rect x="1155.81" y="1194.21" width="480.79" height="755.17" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<rect x="1640.92" y="680.77" width="489.31" height="1272.93" style="fill:#0080FF;fill-opacity:0.60"/>
+	<rect x="1645.24" y="685.09" width="480.67" height="1264.29" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<rect x="2130.23" y="1699.14" width="489.31" height="254.56" style="fill:#0080FF;fill-opacity:0.60"/>
+	<rect x="2134.55" y="1703.46" width="480.67" height="245.92" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<rect x="2619.54" y="680.77" width="489.31" height="1272.93" style="fill:#0080FF;fill-opacity:0.60"/>
+	<rect x="2623.86" y="685.09" width="480.67" height="1264.29" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<line x1="390.80" y1="1953.70" x2="390.80" y2="100.86" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="390.80" y1="1953.70" x2="350.83" y2="1953.70" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1953.70" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1953.70)" text-anchor="middle">0</text>
+	<line x1="390.80" y1="1506.33" x2="350.83" y2="1506.33" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1506.33" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1506.33)" text-anchor="middle">.01</text>
+	<line x1="390.80" y1="1058.96" x2="350.83" y2="1058.96" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1058.96" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1058.96)" text-anchor="middle">.02</text>
+	<line x1="390.80" y1="611.59" x2="350.83" y2="611.59" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="611.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,611.59)" text-anchor="middle">.03</text>
+	<line x1="390.80" y1="164.22" x2="350.83" y2="164.22" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="164.22" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,164.22)" text-anchor="middle">.04</text>
+	<text x="190.71" y="1027.28" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 190.71,1027.28)" text-anchor="middle">Density</text>
+	<line x1="390.80" y1="1953.70" x2="3859.02" y2="1953.70" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="454.16" y1="1953.70" x2="454.16" y2="1993.67" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="454.16" y="2083.66" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">20</text>
+	<line x1="1289.47" y1="1953.70" x2="1289.47" y2="1993.67" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1289.47" y="2083.66" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">40</text>
+	<line x1="2124.91" y1="1953.70" x2="2124.91" y2="1993.67" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="2124.91" y="2083.66" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">60</text>
+	<line x1="2960.35" y1="1953.70" x2="2960.35" y2="1993.67" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="2960.35" y="2083.66" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">80</text>
+	<line x1="3795.66" y1="1953.70" x2="3795.66" y2="1993.67" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="3795.66" y="2083.66" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">100</text>
+	<text x="2124.91" y="2193.67" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">age</text>
+	<rect x="1243.32" y="2278.31" width="1763.19" height="466.30" style="fill:#FFFFFF"/>
+	<rect x="1246.20" y="2281.19" width="1757.43" height="460.54" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<rect x="1286.51" y="2321.50" width="374.34" height="99.99" style="fill:#FF7F00;fill-opacity:0.40"/>
+	<rect x="1290.82" y="2325.82" width="365.70" height="91.35" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<line x1="1286.51" y1="2511.46" x2="1660.85" y2="2511.46" style="stroke:#2D6D66;stroke-width:8.64"/>
+	<rect x="1286.51" y="2601.43" width="374.34" height="99.99" style="fill:#0080FF;fill-opacity:0.60"/>
+	<rect x="1290.82" y="2605.75" width="365.70" height="91.35" style="fill:none;stroke:#D7D29E;stroke-width:8.64"/>
+	<text x="1720.87" y="2406.52" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">Sampled from Normal</text>
+	<text x="1720.87" y="2546.49" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">Theoretical Normal</text>
+	<text x="1720.87" y="2686.46" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">Sampled from t-distribution</text>
+</svg>
